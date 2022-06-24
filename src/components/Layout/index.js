@@ -1,10 +1,7 @@
 import './index.scss';
 
 const Layout = () => {
-    return 
-    <> 
-    Helloooooooooooooooooo
-    </>
+    return <>Hello</>
     
 }
 
